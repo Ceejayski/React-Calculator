@@ -1,3 +1,4 @@
+/* eslint-disable react/destructuring-assignment */
 import operate from './operate';
 
 export default function Calculate(data, buttonName) {
