@@ -1,5 +1,5 @@
-import Display from './components/display';
-import ButtonPanel from './components/button-panel';
+import Display from './display';
+import ButtonPanel from './button-panel';
 
 function App() {
   return (
