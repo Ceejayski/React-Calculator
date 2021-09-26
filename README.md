@@ -8,7 +8,7 @@ This project milestone involves creating the logic for building the calculator f
 
 
  ## Live Demo:
-[Calulator](https://lucid-mcclintock-d2148a.netlify.app/)
+[Calculator](https://amazing-payne-551734.netlify.app/)
 
 ## Built-With
 
