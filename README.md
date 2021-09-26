@@ -3,7 +3,7 @@ This is a set up project for building a calculator for Math Magicians Inc using 
 
 
  ## Live Demo:
-[Calulator](https://infinite-wildwood-45138.herokuapp.com/)
+[Calulator](https://lucid-mcclintock-d2148a.netlify.app/)
 
 ## Built-With
 
