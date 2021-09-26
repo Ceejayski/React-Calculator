@@ -1,8 +1,8 @@
 import operate from './operate';
 
-export default function calculate(data, buttonName) {
+export default function Calculate(data, buttonName) {
   let { total, next, operation } = data;
-  const isNumber = item => !!item.match(/[0-9]+/);
+  const isNumber = (item) => !!item.match(/[0-9]+/);
   if (buttonName === 'AC') {
     total = null;
     next = null;
