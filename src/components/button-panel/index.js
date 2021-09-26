@@ -1,9 +1,9 @@
 import PropTypes from 'prop-types';
 import Button from '../button';
-import "./style.scss";
+import './style.scss';
 
 const ButtonPanel = ({ clickHandler }) => {
-  const handleClick = buttonName => clickHandler(buttonName);
+  const handleClick = (buttonName) => clickHandler(buttonName);
   return (
     <div className="component-button-panel">
       <div className="group-1">

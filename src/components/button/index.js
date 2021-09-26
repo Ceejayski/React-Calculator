@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import "./style.scss";
+import './style.scss';
 
 const Button = ({ name }) => (
   <div>
