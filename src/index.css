@@ -25,3 +25,8 @@ code {
     "Courier New",
     monospace;
 }
+
+.Component-App {
+  width: 700px;
+  margin: 0 auto;
+}
