@@ -25,8 +25,9 @@ This project milestone involves creating a use state in the App function for bui
 3. Run npm run start
 To Test the website
 
-Run yarn add --dev babel-jest babel-preset-stage-0 enzyme enzyme-adapter-react-16 jest-cli react-addons-test-utils react-test-renderer redux-mock-store sinon on the root of the project.
-Write tests and run yarn test to check if tests are passing.
+## Test
+1. Run yarn add --dev babel-jest babel-preset-stage-0 enzyme enzyme-adapter-react-16 jest-cli react-addons-test-utils react-test-renderer redux-mock-store sinon on the root of the project.
+2. Write tests and run yarn test to check if tests are passing.
 
 ## Author Details:
 👤 **Okoli Chijioke**
